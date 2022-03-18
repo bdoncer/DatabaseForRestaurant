@@ -4,7 +4,7 @@ A group project in which we created a database for restaurant. The task descript
 
 ### Database schema
 
-![scheme](projekt\scheme.jpg)
+<img src="scheme.jpg" style="zoom:67%;" />
 
 ### Authors
 
